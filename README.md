@@ -1,7 +1,5 @@
 # NestJS Books API
 
-Welcome to the NestJS books API, a RESTful API designed to manage books and related topics using NestJS and MongoDB. This API supports CRUD operations for documents and titles, and allows integration of filtering, pagination, and input validation. It also features automated API documentation created through Swagger.
-
 ## Features
 
 - Create, Read, Update, and Delete books and topics
