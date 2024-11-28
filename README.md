@@ -31,15 +31,18 @@ To set up the project locally, follow these steps:
    cd simbiotik_task
 
 2. **Install dependencies**:
+   ```bash
    npm install
 
 3. **.env set**
    as of now we don't need to set .env file
 
 4. **run the application**
+   ```bash
    npm run start:dev
 
 5. **API Documentation**
+   ```bash
    http://localhost:3000/api-docs
 
 6. **Database check**
